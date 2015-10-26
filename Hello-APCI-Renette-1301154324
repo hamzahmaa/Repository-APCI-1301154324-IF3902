@@ -1,6 +1,11 @@
-Program Hello ;
+APCI-1301154324
 Uses Crt;
 Begin;
   ClrScr;
-  Written('Hello Word');//untuk melakukan string 'Hello Word' dilayar
+    Writeln('Hello')
+    Writeln('1301154324')
+    Writeln('Hamzah Maulana A A')
+    Writeln('IF39-02')
+    Writeln('1301150072')
+    Writeln('Modul 10')
 End.
