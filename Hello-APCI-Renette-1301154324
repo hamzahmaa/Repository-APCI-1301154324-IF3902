@@ -2,5 +2,5 @@ Program Hello ;
 Uses Crt;
 Begin;
   ClrScr;
-  Written('Hello Word');//untuk melakukan string 'Hello Word' dilayar
+  Written('Hello Word')
 End.
